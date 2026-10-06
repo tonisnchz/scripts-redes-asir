@@ -1,4 +1,6 @@
 #!/bin/bash
+# Modificado en mi entorno local
+
 # Modificado desde Producción
 directorio="$1"
 
